@@ -28,12 +28,35 @@ Nintendo documents describe the CPU & instructions speed in machine cycles while
 | Machine Cycles | 1.05MHz      | 1 cycle         |
 | Clock Cycles   | 4.19MHz      | 4 cycles        |
 
+## Unit test
+[7] collects main-stream test roms for GB emulator.
+
 ## Misc
-There are still some other emulators written in other programming language like [5]
+There are still some other emulators written in other programming language like [5].
+
+A general introduction about GB and its emulator is given in [8] in Chinese.
 
 ## Reference
+
 [1] [LLD - Gameboy Emulator Developme](https://www.youtube.com/watch?v=e87qKixKFME&list=PLVxiWMqQvhg_yk4qy2cSC3457wZJga_e5&index=1)
-[2] [GB 开发资源列表](https://github.com/apachecn/awesome-gb-dev-zh)
-[3] [The Game Boy, a hardware autopsy]([https://www.youtube.com/watch?v=XPGOh1_cVG8](https://www.youtube.com/watch?v=RZUDEaLa5Nw))
+
+
+[2] [GB 开发资源列表](https://github.com/apachecn/awesome-gb-dev-zh) / [Awesome Game Boy Development](https://github.com/gbdev/awesome-gbdev)
+
+
+[3] [The Game Boy, a hardware autopsy](https://www.youtube.com/watch?v=RZUDEaLa5Nw)
+
+
 [4] [Game BoyTM CPU Manual](http://marc.rawer.de/Gameboy/Docs/GBCPUman.pdf)
+
+
 [5] [PyBoy](https://github.com/Baekalfen/PyBoy/tree/master)
+
+
+[6] [metroboy](https://github.com/aappleby/metroboy)
+
+
+[7] [game-boy-test-roms](https://github.com/c-sp/game-boy-test-roms/tree/master)
+
+
+[8] [GameBoy 模拟器](http://accu.cc/content/gameboy/preface/)
