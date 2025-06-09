@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+LLD_gbemu
+build
+LLD_gbemu
