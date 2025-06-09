@@ -1,6 +1,7 @@
-#include <stdio.h>
+#include <common.h>
+#include <emu.h>
 
 int main(int argc, char **argv) {
     printf("Welcome to GBemu!\n\r");
-    return 0;
+    return emu_run(argc, argv);
 }
